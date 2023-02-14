@@ -1,15 +1,15 @@
-You will need:
+Tu auras besoin de :
 
-+ A Raspberry Pi Pico
-+ 2 x socket-socket jumper wires
-+ 1 x push button
++ Un Raspberry Pi Pico
++ 2 x fils de liaison prise-prise
++ 1 x bouton poussoir
 
-To connect your push button:
+Pour connecter ton bouton poussoir :
 
-+ Attach the two jumper wires to the push button pins (secure with tape if needed)
-+ Connect one jumper wire to the **GP18** pin
-+ Connect the other jumper wire to the closest **GND** pin
++ Attacher les deux fils de liaison aux broches du bouton poussoir (fixer avec du ruban adhésif si nécessaire)
++ Connecter un fil de liaison à la broche **GP18**
++ Connecter l'autre fil de liaison à la broche **GND** la plus proche
 
-**Note:** There are no positive or negative legs here so it doesn't matter which way round you connect the wires.
+**Remarque :** Il n'y a pas de pattes positives ou négatives ici, donc peu importe le sens dans lequel tu connectes les fils.
 
-![A push button connected to a Raspberry Pi Pico.](images/single-button-wiring.png)
+![Un bouton poussoir connecté à un Raspberry Pi Pico.](images/single-button-wiring.png)
