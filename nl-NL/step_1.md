@@ -1,15 +1,15 @@
-You will need:
+Je hebt nodig:
 
-+ A Raspberry Pi Pico
-+ 2 x socket-socket jumper wires
-+ 1 x push button
++ Een Raspberry Pi Pico
++ 2 x bus-bus verbindingsdraden
++ 1 x drukknop
 
-To connect your push button:
+Om je drukknop aan te sluiten:
 
-+ Attach the two jumper wires to the push button pins (secure with tape if needed)
-+ Connect one jumper wire to the **GP18** pin
-+ Connect the other jumper wire to the closest **GND** pin
++ Bevestig de twee verbindingsdraden aan de pinnen van drukknop (zet t vast met tape, indien nodig)
++ Sluit één verbindingsdraad aan op de **GP18** pin
++ Sluit de andere verbindingsdraad aan op de dichtstbijzijnde **GND** pin
 
-**Note:** There are no positive or negative legs here so it doesn't matter which way round you connect the wires.
+**Opmerking:** Er zijn hier geen positieve of negatieve benen zodat het niet uitmaakt hoe je de draden verbindt.
 
-![A push button connected to a Raspberry Pi Pico.](images/single-button-wiring.png)
+![Een drukknop verbonden met een Raspberry Pi Pico.](images/single-button-wiring.png)
