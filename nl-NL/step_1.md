@@ -6,7 +6,7 @@ Je hebt nodig:
 
 Om je drukknop aan te sluiten:
 
-+ Bevestig de twee verbindingsdraden aan de pinnen van drukknop (zet t vast met tape, indien nodig)
++ Bevestig de twee verbindingsdraden aan de pinnen van drukknop (zet vast met tape, indien nodig)
 + Sluit één verbindingsdraad aan op de **GP18** pin
 + Sluit de andere verbindingsdraad aan op de dichtstbijzijnde **GND** pin
 
