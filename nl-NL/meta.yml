@@ -1,4 +1,3 @@
----
 title: Monteer een draad aan een enkele knop
 hero_image: images/banner.png
 description: Hoe een enkele knop op een Raspberry Pi Pico aan te sluiten
@@ -7,4 +6,5 @@ listed: false
 copyedit: false
 last_tested: "2022-02-10"
 steps:
-  - title: Monteer een draad aan een enkele knop
+  - 
+    title: Monteer een draad aan een enkele knop
